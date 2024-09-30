@@ -1,6 +1,5 @@
 import re
 
-
 class WordsFinder:
     def __init__(self, *file_names):
         # Сохраняем имена файлов в атрибуте
